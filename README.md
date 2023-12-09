@@ -1,2 +1,2 @@
-# basicfuton's portfolio
-A portfolio of my work that I am proud of.
+# basicfuton's website
+A central host for all of my websites and projects
